@@ -2,6 +2,8 @@
 
 This repository is for the beginning stafes of a project that aims to involve youth in modeling open data, particularly data that is made available by the city of Knoxville. 
 
+Presently, this work is a collaboration with Chris Ostrouchov and Josh Rosenberg.
+
 ## Where is the open data?
 
 - [Knoxville's in-development open data portal](http://www.knoxvilletn.gov/government/opendata)
