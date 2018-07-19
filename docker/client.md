@@ -1,5 +1,9 @@
 # Linux Minecraft Client Instructions
 
+These instructions assume that you have a minecraft server running on
+`localhost:25565`. For starting the minecraft server see
+[server](server.md).
+
 ## Download and start the minecraft client
 
 ```bash
@@ -19,7 +23,7 @@ cd Minecraft*
 
 ![Minecraft Start Screen](../images/linux-minecraft-start.png)
 
-## Click `Direct Connect` and manually connect to `localhost:225565`
+## Click `Direct Connect` and manually connect to `localhost:25565`
 
 ![Minecraft Multiplayer Server](../images/linux-minecraft-multiplayer-server.png)
 
