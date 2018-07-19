@@ -72,6 +72,8 @@ for x in range(0, 128):
                 mc.setBlock(x - 64, y, 0, block.WOOL.id, colors[len(colors) - 1 - colourindex])
 ```
 
+![minecraft rainbow](https://i.imgur.com/3SFrE.png)
+
 # Goals
 
 1. Create a docker container that will run the python minecraft server
