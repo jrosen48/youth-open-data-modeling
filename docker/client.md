@@ -13,7 +13,7 @@ cd Minecraft*
 
 ## Minecraft will begin installation.
 
-![Minecraft Installation](../images/linux-minecraft-client-instllation.png)
+![Minecraft Installation](../images/linux-minecraft-client-installation.png)
 
 ## Click multiplayer to join a Minecraft Server
 
