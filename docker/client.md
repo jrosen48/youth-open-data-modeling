@@ -13,7 +13,9 @@ cd Minecraft*
 ./minecraft-launcher.sh
 ```
 
-## Login with your `email` and `password`.
+## Login with your `email` and `password`
+
+![Minecraft Client Login](../images/linux-minecraft-login.png)
 
 ## Minecraft will begin installation.
 
